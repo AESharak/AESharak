@@ -1,5 +1,5 @@
 
-<img style="width:40%; max-width:300px;" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img style="width:100%; max-width:300px;" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
   Welcome to Ahmed Essam's profile!
