@@ -22,6 +22,10 @@
 <a href="https://www.linkedin.com/in/ahmed-essam-sharak/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Essam-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/APUESSAM" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Essam-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AESharak&show_icons=true&locale=en" alt="Ahmed Essam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AESharak&" alt="Ahmed Essam" /></p>
+
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
